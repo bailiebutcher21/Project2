@@ -1,0 +1,157 @@
+body {
+    background-color: black;
+    color: white;
+}
+.welcome{
+    font-family: 'Cutive Mono', monospace;
+    color:goldenrod;
+}
+.backgroundimage{
+    opacity: .5;
+}
+.quality{
+    font-family: 'Cutive Mono', monospace;
+}
+.andsign{
+    font-size: 100px;
+    position: absolute;
+    top:130px;
+    margin-left:230px;
+    z-index: 1;
+}
+.treats{
+    position:relative;
+    z-index: 2;
+}
+.centerbox{
+    position: relative;
+    align-content: center;
+}
+.textbox{
+    position: absolute;
+    top: 40px;
+    text-align: center;
+    font-size: 50px;
+    margin-left: 300px;
+}
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    margin-right:100px ;
+    margin-left:100px ;
+    padding-top: 55px;
+    border-bottom: solid;
+    border-width:2px;
+    border-color: goldenrod;
+}
+.navigation a{
+    text-decoration: none;
+    color: white;
+    font-size:30px;
+}
+.link2{
+    padding-left: 75px;
+}
+.link3{
+    padding-right:75px;
+}
+.opentime{
+    font-size: 20px;
+}
+.socialmedia{
+    display:flex;
+    justify-content:flex-end;
+    top: 15px;
+    font-size: 20px;
+}
+.topsection{
+    display: flex;
+    justify-content: space-between;
+}
+.love{
+    padding-top: 25px;
+}
+.contactuslink{
+    position:absolute;
+    z-index: 2;
+    font-size: 55px;
+    font-family: 'Cutive Mono', monospace;
+    top:140px;
+    margin-left: 520px;
+}
+.bottomtext{
+    display:flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.aboutus{
+    position:absolute;
+    z-index: 2;
+    font-size: 55px;
+    font-family: 'Cutive Mono', monospace;
+    top:140px;
+    margin-left: 450px;
+}
+.aboutusparagraph{
+    margin-left: 75px;
+    margin-right:75px;
+}
+.reviewbox{
+    margin-left: 75px;
+    margin-right:75px;
+}
+.meettheteam{
+    display:flex;
+    justify-content: space-around;
+    padding-top: 25px;
+    margin-left: 55px;
+}
+.box1top{
+    font-family: 'Cutive Mono', monospace;
+    color: goldenrod;
+    text-align: center;
+}
+.box2top{
+    font-family: 'Cutive Mono', monospace;
+    color: goldenrod;
+    text-align: center;
+}
+.box3top{
+    font-family: 'Cutive Mono', monospace;
+    color: goldenrod;
+    text-align: center;
+}
+.intro{
+    font-size: 30px;
+    color: goldenrod;
+    font-family: 'Cutive Mono', monospace;
+    text-align: center;
+}
+.thebar{
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.leftnav{
+    text-align: center;
+}
+.rightnav{
+    text-align: center;
+}
+.header{
+    text-align: center;
+}
+.cafemenu{
+    width:800px;
+    text-decoration-color: black;
+}
+.logo{
+    text-align: center;
+    font-size:40px:
+}
+.carousel-inner{
+    width:100%;
+    height:300px;
+}
+.carousel-caption h1{
+    top:25px;
+}
