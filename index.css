@@ -3,14 +3,14 @@ body {
   color: white;
 }
 .welcome {
-  font-family: 'cutive Mono; monospace';
+  font-family: 'Cutive Mono', monospace;
   color: goldenrod;
 }
 .backgroundimage {
   opacity: .5;
 }
 .quality {
-  font-family: 'cutive Mono; monospace';
+  font-family: 'Cutive Mono', monospace;
 }
 .andsign {
   font-size: 100px;
@@ -21,7 +21,7 @@ body {
 }
 .treats {
   position: relative;
-  z-index: 1;
+  z-index: 2;
 }
 .centerbox {
   position: relative;
@@ -47,6 +47,7 @@ body {
 .navigation a {
   text-decoration: none;
   color: white;
+  font-size: 30px;
 }
 .link2 {
   padding-left: 75px;
@@ -63,10 +64,6 @@ body {
   top: 15px;
   font-size: 20px;
 }
-.socialmedia a {
-  text-decoration: none;
-  color: white;
-}
 .topsection {
   display: flex;
   justify-content: space-between;
@@ -78,7 +75,7 @@ body {
   position: absolute;
   z-index: 2;
   font-size: 55px;
-  font-family: 'cutive Mono; monospace';
+  font-family: 'Cutive Mono', monospace;
   top: 140px;
   margin-left: 520px;
 }
@@ -91,13 +88,9 @@ body {
   position: absolute;
   z-index: 2;
   font-size: 55px;
-  font-family: 'cutive Mono; monospace';
+  font-family: 'Cutive Mono', monospace;
   top: 140px;
   margin-left: 450px;
-}
-.aboutus .thebar {
-  margin-left: 200px;
-  margin-top: 100px;
 }
 .aboutusparagraph {
   margin-left: 75px;
@@ -114,28 +107,28 @@ body {
   margin-left: 55px;
 }
 .box1top {
-  font-family: 'cutive Mono; monospace';
+  font-family: 'Cutive Mono', monospace;
   color: goldenrod;
-  font-size: 25px;
+  text-align: center;
 }
 .box2top {
-  font-family: 'cutive Mono; monospace';
+  font-family: 'Cutive Mono', monospace;
   color: goldenrod;
-  font-size: 25px;
+  text-align: center;
 }
 .box3top {
-  font-family: 'cutive Mono; monospace';
+  font-family: 'Cutive Mono', monospace;
   color: goldenrod;
-  font-size: 25px;
+  text-align: center;
 }
 .intro {
   font-size: 30px;
   color: goldenrod;
-  font-family: 'cutive Mono; monospace';
+  font-family: 'Cutive Mono', monospace;
   text-align: center;
 }
 .thebar {
-  margin-left: 200px;
+  margin-left: 300px;
   margin-top: 100px;
 }
 .leftnav {
@@ -159,16 +152,6 @@ body {
   width: 100%;
   height: 300px;
 }
-.Cafeimage h1 {
-  text-decoration: none;
-  color: white;
+.carousel-caption h1 {
   top: 25px;
-}
-.Cafeimage a {
-  text-decoration: none;
-  color: white;
-  top: 25px;
-}
-.carousel {
-  margin-top: 25px;
 }
