@@ -1,19 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>The Hitchin' Post</title>
-    <link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script defer src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link rel="stylesheet" href="index.css">
+    <title>The Hitchin' Post</title>
 </head>
 <body>
 
 <div class="topsection">
     <div class="opentime"><i class="fa fa-clock-o"  style="color: goldenrod; aria-hidden="true"></i> Opens at: 10:00 AM - 1:00 AM</div>
     <div class="socialmedia">Follow us:
-        <i class="fa fa-facebook-official" aria-hidden="true" style="margin-left:10px;"></a></i>
-        <i class="fa fa-instagram" aria-hidden="true" style="margin-left: 10px"></i>
+        <a href="https://facebook.com/"><i class="fa fa-facebook-official" aria-hidden="true" style="margin-left:10px;"></i></a>
+        <a href="https://www.instagram.com/"><i class="fa fa-instagram" aria-hidden="true" style="margin-left:10px;"></i></a>
     </div>
 </div>
 
@@ -23,25 +27,67 @@
            <a class="link1" href="bar.html">Bar</a>
            <a class="link2" href="cafemenu.html">Cafe Menu</a>
        </div>
-    <div class="logo">The<br>Hitchin' Post</div>
+    <div class="logo"></div>
         <div class="rightnav">
             <a class="link3" href="contactus.html">Contact Us</a>
             <a class="link4" href="aboutus.html">About Us</a>
         </div>
 </nav>
 
-<div class="centerbox">
-    <div class="backgroundimage"><img src="img/Longbarphoto.jpg" style="width: 1200px"></div>
-    <div class="textbox">
-        <div class="originaltaste"">Orignal Taste - Since 1982</div>
-        <div class="quality" style="color: goldenrod">Premium Quality</div>
-        <div class="treats">Treats, Fun Memories</div>
-        <div class="love">Love</div>
-        <div class="andsign" style="color: goldenrod">&</div>
-    </div>
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <img src="img/The-Hitching-Post.png" alt="thehitchingpost">
+                <div class="carousel-caption">
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/Screen%20Shot%202017-09-22%20at%202.11.24%20PM.png">
+                <div class="carousel-caption">
+                    <div class="Cafeimage">
+                        <a href="cafemenu.html"><h1>Visit the Cafe</h1></a>
 
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/Screen%20Shot%202017-09-22%20at%202.12.48%20PM.png">
+                <div class="carousel-caption">
+                    <div class="carousel-caption">
+                        <h1>Hello, world!</h1>
+                        <p></p>
+                        </div>
+                    </div>
+                </div>
 
-<div class="reviewbox">
+                <div class="item">
+                    <img src="img/Screen%20Shot%202017-09-22%20at%202.13.17%20PM.png">
+                    <div class="carousel-caption">
+                        <div class="carousel-caption">
+                            <h1>Hello, world!</h1>
+                            <p></p>
+                        </div>
+                        </div>
+                    </div>
+                    <!-- Controls -->
+                    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+</div>
+
     <div class="welcome"><h2>Welcome!</h2></div>
     <div class="paragraphs"><p>I noticed this place soon after we moved to Orem and my interest was piqued. A few months went by, we were very busy, and didn't get around to trying The Hitching Post until last month. After trying a lot of other places in Orem to get a beer, I didn't have high hopes: I was sick of having to order food just to enjoy going out for a drink.</p>
 
