@@ -10,8 +10,7 @@ body {
   margin-right: 60px;
 }
 .backgroundimage {
-  opacity: .5;
-  margin: 0 20px 0 20px;
+  margin: 0 20px 0 105px;
 }
 .quality {
   font-family: 'Cutive Mono', monospace;
@@ -30,6 +29,7 @@ body {
 .centerbox {
   position: relative;
   text-align: center;
+  margin: 0 65px 0 0;
 }
 .centerbox img {
   text-align: center;
@@ -154,9 +154,9 @@ body {
 .header {
   text-align: center;
 }
-.cafemenu {
-  width: 800px;
-  text-decoration-color: black;
+.cafemenu img {
+  margin: 0 0 0 250px;
+  text-align: center;
 }
 .logo {
   text-align: center;
