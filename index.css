@@ -155,26 +155,25 @@ body {
   text-align: center;
 }
 .cafemenu img {
-  margin: 0 0 0 250px;
+  margin: 10px 0 0 250px;
   text-align: center;
 }
 .logo {
   text-align: center;
   font-size: 40px;
 }
-.carousel-inner {
-  width: 100%;
-  height: 300px;
-}
-.carousel-caption h1 {
-  top: 25px;
+.breakfast-menu {
+  margin: 10px 0 0 250px;
 }
 .paragraphs p {
   margin-left: 60px;
   margin-right: 60px;
 }
 .lunchcontainer {
-  display: flex;
+  margin: 10px 0 0 250px;
+}
+.dinnermenu {
+  margin: 10px 0 0 250px;
 }
 /* Dropdown Button */
 .dropbtn {
