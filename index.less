@@ -24,9 +24,6 @@ body {
 .navigation {
   display: flex;
   justify-content: space-around;
-  margin-right: 100px;
-  margin-left: 100px;
-  padding-top: 55px;
   border-bottom: solid;
   border-width: 2px;
   border-color: @border_color_1;
@@ -40,7 +37,12 @@ body {
     color: @color_1;
     font-size: 30px;
   }
+  img{
+    width:150px;
+    padding-top:0;
+  }
 }
+
 .link2 {
   padding-left: 75px;
 }
@@ -60,18 +62,13 @@ body {
   display: flex;
   justify-content: space-between;
 }
-.love {
-  padding-top: 25px;
-}
+
 .contactuslink {
   font-size: 55px;
   font-family: @font_family_1;
   text-align: center;
 }
-.reviewbox {
-  margin-left: 75px;
-  margin-right: 75px;
-}
+
 
 .box1top {
   font-family: @font_family_1;
@@ -97,14 +94,6 @@ body {
 .thebar {
   margin-left: 300px;
   margin-top: 100px;
-}
-.leftnav {
-  text-align: center;
-  display:flex;
-  justify-content: space-between;
-}
-.rightnav {
-  text-align: center;
 }
 .header {
   text-align: center;
@@ -256,4 +245,13 @@ body {
 }
 .carousel-inner > .item > img {
   margin: 0 auto;
+}
+.rightnav{
+  margin-top: 85px;
+}
+.leftnav{
+  margin-top:85px;
+}
+.right.carousel-control, .left.carousel-control{
+  width:100px;
 }

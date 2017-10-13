@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8dc2164-3891-43ba-92b5-d2c6001c1991" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Fast_food_meal.jpg" afterPath="$PROJECT_DIR$/img/Fast_food_meal.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html files/Index.html" afterPath="$PROJECT_DIR$/html files/Index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html files/aboutus.html" afterPath="$PROJECT_DIR$/html files/aboutus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html files/bar.html" afterPath="$PROJECT_DIR$/html files/bar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html files/breakfast-menu.html" afterPath="$PROJECT_DIR$/html files/breakfast-menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html files/cafemenu.html" afterPath="$PROJECT_DIR$/html files/cafemenu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html files/contactus.html" afterPath="$PROJECT_DIR$/html files/contactus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html files/dinner-menu.html" afterPath="$PROJECT_DIR$/html files/dinner-menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html files/index.js" afterPath="$PROJECT_DIR$/html files/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html files/lunch-menu.html" afterPath="$PROJECT_DIR$/html files/lunch-menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.less" afterPath="$PROJECT_DIR$/index.less" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,11 +34,9 @@
       <file leaf-file-name="Index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html files/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="51" column="26" lean-forward="false" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+            <state relative-caret-position="-643">
+              <caret line="7" column="218" lean-forward="false" selection-start-line="7" selection-start-column="218" selection-end-line="7" selection-end-column="218" />
               <folding>
-                <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#a#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -36,11 +45,41 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="aboutus.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html files/aboutus.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="218" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3810">
-              <caret line="254" column="26" lean-forward="false" selection-start-line="254" selection-start-column="26" selection-end-line="254" selection-end-column="26" />
+            <state relative-caret-position="558">
+              <caret line="254" column="48" lean-forward="false" selection-start-line="254" selection-start-column="48" selection-end-line="254" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contactus.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html files/contactus.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html files/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,12 +100,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>style</find>
-      <find>text</find>
-      <find>font</find>
-      <find>font-family</find>
-      <find>topse</find>
-      <find>meet</find>
       <find>topsec</find>
       <find>bar</find>
       <find>nav</find>
@@ -91,6 +124,12 @@
       <find>.meet</find>
       <find>.aboutus</find>
       <find>welcome</find>
+      <find>leftnav</find>
+      <find>navig</find>
+      <find>navigation</find>
+      <find>right</find>
+      <find>navi</find>
+      <find>displa</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -116,17 +155,17 @@
         <option value="$PROJECT_DIR$/contactus.html" />
         <option value="$PROJECT_DIR$/dinner-menu.html" />
         <option value="$PROJECT_DIR$/lunch-menu.html" />
+        <option value="$PROJECT_DIR$/html files/javascript.js" />
+        <option value="$PROJECT_DIR$/html files/aboutus.html" />
+        <option value="$PROJECT_DIR$/html files/bar.html" />
         <option value="$PROJECT_DIR$/html files/breakfast-menu.html" />
         <option value="$PROJECT_DIR$/html files/cafemenu.html" />
         <option value="$PROJECT_DIR$/html files/dinner-menu.html" />
         <option value="$PROJECT_DIR$/html files/lunch-menu.html" />
-        <option value="$PROJECT_DIR$/html files/index.js" />
-        <option value="$PROJECT_DIR$/html files/javascript.js" />
-        <option value="$PROJECT_DIR$/html files/contactus.html" />
-        <option value="$PROJECT_DIR$/html files/bar.html" />
-        <option value="$PROJECT_DIR$/html files/aboutus.html" />
-        <option value="$PROJECT_DIR$/html files/Index.html" />
         <option value="$PROJECT_DIR$/index.less" />
+        <option value="$PROJECT_DIR$/html files/contactus.html" />
+        <option value="$PROJECT_DIR$/html files/index.js" />
+        <option value="$PROJECT_DIR$/html files/Index.html" />
       </list>
     </option>
   </component>
@@ -136,7 +175,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="88" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="807" />
@@ -158,6 +198,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,11 +206,15 @@
               <item name="cafeproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="cafeproject" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cafeproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cafeproject" type="462c0819:PsiDirectoryNode" />
+              <item name="html files" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -180,17 +225,17 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
-      <recent name="$PROJECT_DIR$/CDN" />
-      <recent name="$PROJECT_DIR$/MDL" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/Javascript" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/html files" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/CDN" />
+      <recent name="$PROJECT_DIR$/MDL" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -288,7 +333,10 @@
       <workItem from="1507864439586" duration="1327000" />
       <workItem from="1507901454122" duration="59000" />
       <workItem from="1507905457958" duration="104000" />
-      <workItem from="1507905593982" duration="2000" />
+      <workItem from="1507905593982" duration="18000" />
+      <workItem from="1507907362131" duration="221000" />
+      <workItem from="1507908258022" duration="1236000" />
+      <workItem from="1507929178298" duration="1720000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed the Navigation Bar.">
       <created>1506439303004</created>
@@ -353,14 +401,21 @@
       <option name="project" value="LOCAL" />
       <updated>1507865759674</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Created file for Javascript">
+      <created>1507905605606</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1507905605606</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83851000" />
+    <option name="totallyTimeSpent" value="87044000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="807" extended-state="0" />
+    <frame x="6" y="23" width="1440" height="807" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10993657" sideWeight="0.48879552" order="0" side_tool="false" content_ui="combo" />
@@ -415,7 +470,8 @@
     <MESSAGE value="Added html files into the html files folder" />
     <MESSAGE value="Downloaded Bootstrap CDN." />
     <MESSAGE value="Added Carousel on Index.HTML page. Added Bootstrap Image Gallery on Bar.HTML page. Added form and google maps to contact us page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Carousel on Index.HTML page. Added Bootstrap Image Gallery on Bar.HTML page. Added form and google maps to contact us page." />
+    <MESSAGE value="Created file for Javascript" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created file for Javascript" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -587,34 +643,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html files/breakfast-menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html files/dinner-menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html files/lunch-menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html files/cafemenu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/The-Hitching-Post.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -624,34 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="105" lean-forward="false" selection-start-line="9" selection-start-column="105" selection-end-line="9" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html files/contactus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="57" column="24" lean-forward="false" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html files/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html files/bar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="43" column="16" lean-forward="false" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html files/aboutus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="44" column="32" lean-forward="true" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -675,21 +675,83 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html files/bar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html files/breakfast-menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html files/cafemenu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html files/dinner-menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html files/lunch-menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" column="42" lean-forward="true" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3810">
-          <caret line="254" column="26" lean-forward="false" selection-start-line="254" selection-start-column="26" selection-end-line="254" selection-end-column="26" />
+        <state relative-caret-position="558">
+          <caret line="254" column="48" lean-forward="false" selection-start-line="254" selection-start-column="48" selection-end-line="254" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html files/contactus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html files/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html files/aboutus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="218" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html files/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="51" column="26" lean-forward="false" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+        <state relative-caret-position="-643">
+          <caret line="7" column="218" lean-forward="false" selection-start-line="7" selection-start-column="218" selection-end-line="7" selection-end-column="218" />
           <folding>
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
