@@ -3,36 +3,10 @@ body {
   color: white;
   margin: 0 30px 0 30px;
 }
-.welcome {
-  font-family: 'Cutive Mono', monospace;
-  color: goldenrod;
-  margin-left: 60px;
-  margin-right: 60px;
-}
-.backgroundimage {
+.backgroundimage img {
   margin: 0 20px 0 105px;
-}
-.quality {
-  font-family: 'Cutive Mono', monospace;
-}
-.andsign {
-  font-size: 100px;
-  position: absolute;
-  top: 130px;
-  margin-left: 230px;
-  z-index: 1;
-}
-.treats {
-  position: relative;
-  z-index: 2;
-}
-.centerbox {
-  position: relative;
-  text-align: center;
-  margin: 0 65px 0 0;
-}
-.centerbox img {
-  text-align: center;
+  opacity: .5;
+  width: 300px;
 }
 .textbox {
   position: absolute;
@@ -84,39 +58,13 @@ body {
   padding-top: 25px;
 }
 .contactuslink {
-  position: absolute;
-  z-index: 2;
   font-size: 55px;
   font-family: 'Cutive Mono', monospace;
-  margin-left: 300px;
-  margin-top: 100px;
-}
-.bottomtext {
-  display: flex;
-  justify-content: space-around;
   text-align: center;
-}
-.aboutus {
-  position: absolute;
-  z-index: 2;
-  font-size: 55px;
-  font-family: 'Cutive Mono', monospace;
-  margin-left: 550px;
-  top: 150px;
-}
-.aboutusparagraph {
-  margin-left: 75px;
-  margin-right: 75px;
 }
 .reviewbox {
   margin-left: 75px;
   margin-right: 75px;
-}
-.meettheteam {
-  display: flex;
-  justify-content: space-around;
-  padding-top: 25px;
-  margin-left: 55px;
 }
 .box1top {
   font-family: 'Cutive Mono', monospace;
@@ -215,4 +163,77 @@ body {
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
   background-color: black;
+}
+.contact-container {
+  display: flex;
+  justify-content: space-around;
+}
+.phonenumber {
+  text-align: center;
+}
+.email {
+  text-align: center;
+}
+#map {
+  margin-top: 30px;
+}
+.form-group {
+  width: 300px;
+  margin-top: 30px;
+}
+.bottomtext {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-around;
+  font-family: 'Cutive Mono', monospace;
+}
+#messagebox {
+  margin-top: 30px;
+}
+.signaturedrinks {
+  text-align: center;
+  color: goldenrod;
+  font-family: 'Cutive Mono', monospace;
+  margin-bottom: 25px;
+}
+.imagegallery {
+  border-bottom: solid;
+  border-color: goldenrod;
+}
+.meettheteam {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 25px;
+}
+.intro {
+  margin-top: 25px;
+}
+.aboutus {
+  font-size: 55px;
+  font-family: 'Cutive Mono', monospace;
+  text-align: center;
+}
+.aboutusparagraph {
+  margin-left: 75px;
+  margin-right: 75px;
+}
+.centerbox {
+  position: relative;
+  text-align: center;
+  margin: 0 65px 0 0;
+}
+.centerbox img {
+  text-align: center;
+}
+.item img {
+  width: 1200px;
+  height: 400px;
+}
+.welcome {
+  font-family: 'Cutive Mono', monospace;
+  color: goldenrod;
+  margin: 35px 60px 0 60px;
+}
+.carousel-inner > .item > img {
+  margin: 0 auto;
 }
