@@ -234,3 +234,11 @@ body {
 .left.carousel-control {
   width: 100px;
 }
+.btn-primary {
+  text-align: center;
+}
+.help {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 30px;
+}
