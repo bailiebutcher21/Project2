@@ -59,29 +59,24 @@
    <button type="submit" class="btn btn-primary">Submit</button>
 
 </form>
-
-    <div id="map" style="width:400px;height:400px;background:yellow"><h2>Come Visit Us:</h2></div>
-</div>
-<div class="bottomtext">
-    <div class="phonenumber"><h2>Phone Number:</h2><h3>(801) 226-3277</h3></div>
-    <div class="email"><h2>Email Us:</h2><h3>Thehitchingpost@gmail.com</h3></div>
-</div>
-
+    <div id="map"></div>
     <script>
-        function myMap() {
-            var mapCanvas = document.getElementById("map");
-            var mapOptions = {
-                center: new google.maps.LatLng(51.5, -0.2), zoom: 10
-            };
-            var map = new google.maps.Map(mapCanvas, mapOptions);
+        function initMap() {
+            var uluru = {lat: 40.4195128, lng:-111.88615899999999};
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 15,
+                center: uluru,
+                mapTypeId: 'hybrid'
+            });
+            var marker = new google.maps.Marker({
+                position: uluru,
+                map: map
+            });
         }
     </script>
-
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
-    <!--
-    To use this code on your website, get a free API key from Google.
-    Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
-    -->
+    <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2hdDZrzTRG4QEakBwusA0ekjp9JMKQZI &callback=initMap">
+    </script>
 <script src="index.js"></script>
 </body>
 </html>
